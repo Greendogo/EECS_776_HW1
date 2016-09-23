@@ -1,3 +1,8 @@
+-- Author: Paul McELroy
+-- Date: 9/23/2016
+-- A demonstation of a "pizza" datatype and a simple program that uses it.
+-- GitHub Repository: https://github.com/Greendogo/EECS_776_HW1
+
 type Toppings = [Topping]
 
 data Topping

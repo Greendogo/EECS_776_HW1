@@ -1,3 +1,8 @@
+-- Author: Paul McELroy
+-- Date: 9/23/2016
+-- A demonstation of a "pizza" type synonym and a simple program that uses it.
+-- GitHub Repository: https://github.com/Greendogo/EECS_776_HW1
+
 type Size = Int
 type Topping = String
 type Crusty = Bool
